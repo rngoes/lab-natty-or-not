@@ -12,7 +12,7 @@ Utilizei o "ChatGPT" para criar o E-book sobre IAs Generativas, montando a estru
 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-LINK PARA O E-BOOK AQUI [https://drive.google.com/file/d/1NofLRC66T0D0I5j_13C_b5D96srPP6yS/view?usp=drive_link]
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1NofLRC66T0D0I5j_13C_b5D96srPP6yS/view?usp=drive_link)
 
 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
